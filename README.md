@@ -21,10 +21,3 @@ This Chrome extension is for internal use exclusively for Closure employees in a
     ```
  
 1. Then load the extension package from the newly created */dist* directory 
-
-### Supported Organization Web Forms
-
-- Postcodeloterij/Vriendenloterij
-- DPG-Media
-- DPG-Magazines
-- Mediahuis
