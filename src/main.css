@@ -1,0 +1,35 @@
+body {
+    max-width: 300px;
+    padding: 1em;
+    --bg-opacity: 1;
+    background-color: rgba(0,116,115,var(--bg-opacity));
+    color: #ffffff;
+}
+h1 {
+    margin-top: 0;
+}
+label {
+    display: block;
+    font-size: 14px;
+    font-weight: bold;
+    margin-bottom: .5em;
+}
+select {
+    width: 300px;
+    display: block;
+    margin-bottom: 1em;
+    padding: .125em;
+    font-size: 14px;
+}
+button {
+    background-color: rgba(245,172,185, 1);
+    border: none;
+    border-radius: 15px;
+    color: #ffffff;
+    display: block;
+    float: right;
+    font-size: 14px;
+    font-weight: bold;
+    margin-bottom: 1em;
+    padding: .5em 2em;
+}

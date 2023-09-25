@@ -1,0 +1,24 @@
+{
+  "name": "Closure Autofill Form",
+  "description": "This form automatically fills up form by fetching data from the Closure /get-form-fields API",
+  "version": "2.0",
+  "action": {
+    "default_icon": "icon.png",
+    "default_popup": "popup.html",
+    "default_title": "Click here!"
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
+  "permissions": [
+    "activeTab",
+    "webNavigation",
+    "scripting"
+  ],
+  "host_permissions": [
+    "http://*/*",
+    "https://*/*"
+  ],
+
+  "manifest_version": 3
+}
