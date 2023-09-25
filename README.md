@@ -22,14 +22,6 @@ This Chrome extension is for internal use exclusively for Closure employees in a
  
 1. Then load the extension package from the newly created */dist* directory 
 
-1. <p><a href="https://github.com/closurebv/dim-webform-filler-extension/blob/master/install-web-extension.mp4?raw=true" target="_blank">See installation video</a></p>
-    <video controls preload="metadata">
-    <source type="video/mp4" src="https://github.com/closurebv/dim-webform-filler-extension/blob/master/install-web-extension.mp4" target="_blank"></source>
-    If your browser does not support playing HTML5 video. You can
-    <a href="https://github.com/closurebv/dim-webform-filler-extension/blob/master/install-web-extension.mp4">download a copy of the video
-    file</a> instead.
-    </video>
-
 ### Supported Organization Web Forms
 
 - Postcodeloterij/Vriendenloterij
