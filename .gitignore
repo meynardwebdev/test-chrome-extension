@@ -1,0 +1,9 @@
+/.idea
+/node_modules/
+/dist/
+/.env.production
+/.env.development
+**/.DS_Store
+.DS_Store
+/dist.crx
+/dist.pem
